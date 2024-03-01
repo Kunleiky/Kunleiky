@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kunleiky
 - 👀 I’m a data analytics professional
 - 🌱 I’m currently working on different projects in R, Python, SQL and Power BI
-- 📫 How to reach me: ibikunleSgabriel@gmail.com
+- 📫 How to reach me: ibikunlesgabriel@gmail.com
 
 <!---
 Kunleiky/Kunleiky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
