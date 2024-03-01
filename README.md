@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kunleiky
-- 👀 I’m a data analytics professional
-- 🌱 I’m currently working on different projects in R, Python, SQL and Power BI
+- 👀 I’m a data analytics professional and Power BI developer
+- 🌱 I’m currently working on different projects in R, Python, SQL, Tableau Public and Power BI
 - 📫 How to reach me: ibikunlesgabriel@gmail.com
 
 <!---
