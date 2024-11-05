@@ -2,6 +2,7 @@
 - 👀 I’m a data analytics professional and Power BI developer
 - 🌱 I’m currently working on different projects in R, Python, SQL, Tableau Public and Power BI
 - 📫 How to reach me: ibikunlesgabriel@gmail.com
+- Key competencies include Python, R, SQL, Power BI, Tableau, Stata, NVIVO, SPSS, and Eviews
 
 <!---
 Kunleiky/Kunleiky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
