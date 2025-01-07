@@ -50,7 +50,7 @@ Here are the data science and data analytics tools I use efficiently
   -  <b> Survey Data Analysis </b>: [Survey Data Analysis](https://github.com/Kunleiky/SURVEY-DATA-ANALYSIS-1)
 
 
- ## 🤳 **Connect with Me**
+ ##  🌐 **Connect with Me**
  <a href="https://www.linkedin.com/in/ibikunle-gabriel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="https://x.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -60,11 +60,11 @@ Here are the data science and data analytics tools I use efficiently
 
 
 
-## **About Me**
+##  💫 **About Me**
 
 - 🔭 I’m currently working on Deep Learning Models and content creation for tech enthusiasts
 - 🌱 I’m currently reading buisness related books
 - 💬 Ask me about Machine Learning
-- 📫 How to reach me: ibikunlesgabriel@gmail.com
+- 📫 How to reach me: ibikunlesgabriel@gmail.com [ibikunlesgabriel@gmail.com](mailto:ibikunlesgabriel@gmail.com)
 - ⚡ Fun fact about me: I love to sightsee in my spare time 
 
