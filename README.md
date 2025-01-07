@@ -1,7 +1,7 @@
-# Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
+# 👋 Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
 I am a data science professional with a keen interest in data science, data analytics, business intelligence, Machine Learning and Deep Learning. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of data.
 
-## **Skills and Competencies**
+## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
 - Database administartion with SQL
 - Machine Learning
@@ -13,7 +13,7 @@ Here are my key skills and competencies
 - Time series forecasting
 - PL-SEM
 - Markdown
-## **Tools**
+## 🛠️ **Tools**
 Here are the data science and data analytics tools I use efficiently
 
   <div>
@@ -33,7 +33,7 @@ Here are the data science and data analytics tools I use efficiently
 </div>
 
 
-  ## **Projects**
+  ## 👨‍💻 **Projects**
   Here are some of my projects
   - <b> ML Classification Task </b>: [Prediction of treatment discontinuation castration resistance prostate cancer](https://github.com/Kunleiky/prediction-of-treatment-discontinuation-for-metastatic-castration-resistance-prostate-cancer)
   - <b> Stock Time Series Forecasting </b>: [Time Series Forecasting - Reddit Gamestop Data](https://github.com/Kunleiky/TIME-SERIES-FORECASTING-REDDIT-GAMESTOP-DATA)
@@ -46,7 +46,7 @@ Here are the data science and data analytics tools I use efficiently
   -  <b> Retail Sales Forecasting </b>: [Sales Forecasting - A Focus on the Retail Industry](https://github.com/Kunleiky/Sales-Forecasting-A-Focus-on-the-Retail-Industry)
 
 
- ## **Connect with Me**
+ ## 🤳 **Connect with Me**
  <a href="https://www.linkedin.com/in/ibikunle-gabriel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 <a href="https://x.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
