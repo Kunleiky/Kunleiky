@@ -3,7 +3,7 @@ I am a data science professional with a keen interest in data science, data anal
 
 ## 🚀🦾 **Skills and Competencies**
 Here are my key skills and competencies 
-- Database administartion with SQL
+- Database administration with SQL
 - Machine Learning
 - Deep Learning
 - Data Visualization
