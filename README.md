@@ -49,5 +49,5 @@ Here are the data science and data analytics tools I use efficiently
  ## **Connect with Me**
  <a href="https://www.linkedin.com/in/ibikunle-gabriel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://x.com/IBK_data"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/IBK_data"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
