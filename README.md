@@ -40,7 +40,7 @@ Here are the data science and data analytics tools I use efficiently
   - <b> Data Anonymizarion </b>: [Data Anonymization in Python](https://github.com/Kunleiky/Data-Anonymization-in-Python)
   - <b> Data Visualization in R </b>: [Data Meets Art: A Waffle Visualization](https://github.com/Kunleiky/Data-Meet-Art_A-Waffle-Visualization)
   - <b> Exploratory Data Analysis </b>: [EDA - House Prices Dataset](https://github.com/Kunleiky/EDA-House-Prices-Dataset)
-  - <b> SQL in PostgreSQL</b>: [Top Secret Database}](https://github.com/Kunleiky/TOP-SECRET-DATABASE)
+  - <b> SQL in PostgreSQL</b>: [Top Secret Database](https://github.com/Kunleiky/TOP-SECRET-DATABASE)
   -  <b> Unsupervised ML Task </b>: [Anomaly Detection](https://github.com/Kunleiky/anomaly-detection)
   -  <b> AI/ML Task </b>: [Air Quality Index](https://github.com/Kunleiky/AI_ML--AIR-QUALITY-INDEX)
   -  <b> Retail Sales Forecasting </b>: [Sales Forecasting - A Focus on the Retail Industry](https://github.com/Kunleiky/Sales-Forecasting-A-Focus-on-the-Retail-Industry)
