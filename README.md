@@ -1,5 +1,5 @@
 # Hello, I'm **Ibikunle Gabriel**. Welcome to my GitHub profile.
-I am a data science professional with a keen interest in data science, data analytics, business intelligence, Machine Learning nd Deep Learning. I'm deeply committed to solving complex problems, exploring new technologies new technologies, building prgamatic projects and sharing my knowledge and expansive world of data.
+I am a data science professional with a keen interest in data science, data analytics, business intelligence, Machine Learning and Deep Learning. I'm deeply committed to solving complex problems, exploring new technologies, building pragmatic projects and sharing my knowledge of the beautiful and expansive world of data.
 
 ## **Skills and Competencies**
 Here are my key skills and competencies 
