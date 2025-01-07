@@ -52,3 +52,11 @@ Here are the data science and data analytics tools I use efficiently
 <a href="https://x.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
 
 
+## **About Me**
+
+- 🔭 I’m currently working on Deep Learning Models and content creation for tech enthusiasts
+- 🌱 I’m currently reading buisness related books
+- 💬 Ask me about Machine Learning
+- 📫 How to reach me: ibikunlesgabriel@gmail.com
+- ⚡ Fun fact about me: I love to sightsee in my spare time 
+
