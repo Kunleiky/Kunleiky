@@ -18,7 +18,7 @@ Here are the data science and data analytics tools I use efficiently
 
   <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?&style=for-the-badge&logo=Power-BI&logoColor=black" />
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-R-276DC3?&style=for-the-badge&logo=R&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
@@ -49,5 +49,6 @@ Here are the data science and data analytics tools I use efficiently
  ## **Connect with Me**
  <a href="https://www.linkedin.com/in/ibikunle-gabriel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://x.com/IBK_data"><img src="https://img.shields.io/badge/-X-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://x.com/ibikunlegabriel"><img src="https://img.shields.io/badge/-X-000000?&style=for-the-badge&logo=x&logoColor=white" /></a>
+
 
