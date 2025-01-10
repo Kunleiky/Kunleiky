@@ -37,7 +37,7 @@ Here are the data science and data analytics tools I use efficiently
   Here are some of my projects
   - <b> ML Classification Task </b>: [Prediction of treatment discontinuation castration resistance prostate cancer](https://github.com/Kunleiky/prediction-of-treatment-discontinuation-for-metastatic-castration-resistance-prostate-cancer)
   - <b> Stock Time Series Forecasting </b>: [Time Series Forecasting - Reddit Gamestop Data](https://github.com/Kunleiky/TIME-SERIES-FORECASTING-REDDIT-GAMESTOP-DATA)
-  - <b> Data Anonymizarion </b>: [Data Anonymization in Python](https://github.com/Kunleiky/Data-Anonymization-in-Python)
+  - <b> Data Anonymization </b>: [Data Anonymization in Python](https://github.com/Kunleiky/Data-Anonymization-in-Python)
   - <b> Data Visualization in R </b>: [Data Meets Art: A Waffle Visualization](https://github.com/Kunleiky/Data-Meet-Art_A-Waffle-Visualization)
   - <b> Exploratory Data Analysis </b>: [EDA - House Prices Dataset](https://github.com/Kunleiky/EDA-House-Prices-Dataset)
   - <b> SQL in PostgreSQL</b>: [Top Secret Database](https://github.com/Kunleiky/TOP-SECRET-DATABASE)
