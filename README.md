@@ -7,7 +7,7 @@ Here are my key skills and competencies
 - Machine Learning
 - Deep Learning
 - Data Visualization
-- Qualitatie data analysis
+- Qualitative data analysis
 - Financial modeling
 - Git
 - Time series forecasting
@@ -48,6 +48,11 @@ Here are the data science and data analytics tools I use efficiently
   -  <b> R Markdown </b>: [World Energy](https://github.com/Kunleiky/World_Energy)
   -  <b> Data Visualization </b>: [Nightingale Rose Chart](https://github.com/Kunleiky/NIGHTINGALE-ROSE-CHART)
   -  <b> Survey Data Analysis </b>: [Survey Data Analysis](https://github.com/Kunleiky/SURVEY-DATA-ANALYSIS-1)
+
+
+## 👨‍💻 **Articles**
+  Here are some of my articles
+  -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://github.com/Kunleiky/SURVEY-DATA-ANALYSIS-1)
 
 
  ##  🌐 **Connect with Me**
