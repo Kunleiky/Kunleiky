@@ -34,7 +34,7 @@ Here are the data science and data analytics tools I use efficiently
 
 
   ## 👨‍💻 **Projects**
-  Here are some of my projects
+  Here are some of my projects  
   - <b> ML Classification Task </b>: [Prediction of treatment discontinuation castration resistance prostate cancer](https://github.com/Kunleiky/prediction-of-treatment-discontinuation-for-metastatic-castration-resistance-prostate-cancer)
   - <b> Stock Time Series Forecasting </b>: [Time Series Forecasting - Reddit Gamestop Data](https://github.com/Kunleiky/TIME-SERIES-FORECASTING-REDDIT-GAMESTOP-DATA)
   - <b> Data Anonymization </b>: [Data Anonymization in Python](https://github.com/Kunleiky/Data-Anonymization-in-Python)
@@ -51,7 +51,8 @@ Here are the data science and data analytics tools I use efficiently
 
 
 ## 👨‍💻 **Articles**
-  Here are some of my articles
+  Here are some of my articles  
+  
     -  <b> Power BI </b>: [Many-to-many Relationships in Power BI: Bridge Table to the Rescue](https://www.linkedin.com/pulse/many-to-many-relationships-power-bi-bridge-table-rescue-gabriel/)
 
   -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://www.linkedin.com/pulse/pl-sem-method-analysis-indeed-silver-bullet-ibikunle-gabriel-tjs0f)
