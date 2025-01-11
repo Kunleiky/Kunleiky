@@ -52,7 +52,7 @@ Here are the data science and data analytics tools I use efficiently
 
 ## 👨‍💻 **Articles**
   Here are some of my articles
-  -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://github.com/Kunleiky/SURVEY-DATA-ANALYSIS-1)
+  -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://www.linkedin.com/pulse/pl-sem-method-analysis-indeed-silver-bullet-ibikunle-gabriel-tjs0f) or [PL-SEM: Indeed a Silver Bullet?](https://medium.com/@ibikunlesgabriel/pl-sem-method-of-analysis-indeed-a-silver-bullet-d736a5fa7870)     
 
 
  ##  🌐 **Connect with Me**
