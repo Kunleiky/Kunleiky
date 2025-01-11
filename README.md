@@ -51,9 +51,9 @@ Here are the data science and data analytics tools I use efficiently
 
 
 ## 👨‍💻 **Articles**
-  Here are some of my articles  
+  Here are some of my articles
   
-    -  <b> Power BI </b>: [Many-to-many Relationships in Power BI: Bridge Table to the Rescue](https://www.linkedin.com/pulse/many-to-many-relationships-power-bi-bridge-table-rescue-gabriel/)
+  -  <b> Power BI </b>: [Many-to-many Relationships in Power BI: Bridge Table to the Rescue](https://www.linkedin.com/pulse/many-to-many-relationships-power-bi-bridge-table-rescue-gabriel/)
 
   -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://www.linkedin.com/pulse/pl-sem-method-analysis-indeed-silver-bullet-ibikunle-gabriel-tjs0f)
 
