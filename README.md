@@ -6,6 +6,7 @@ Here are my key skills and competencies
 - Database administration with SQL
 - Machine Learning
 - Deep Learning
+- Explainable AI
 - Data Visualization
 - Qualitative data analysis
 - Financial modeling
@@ -40,6 +41,7 @@ Here are the data science and data analytics tools I use efficiently
   -  <b> AI/ML Regression Task </b>: [Air Quality Index](https://github.com/Kunleiky/AI_ML--AIR-QUALITY-INDEX)
   - <b> Stock Time Series Forecasting </b>: [Time Series Forecasting - Reddit Gamestop Data](https://github.com/Kunleiky/TIME-SERIES-FORECASTING-REDDIT-GAMESTOP-DATA)
   - <b> Data Anonymization </b>: [Data Anonymization in Python](https://github.com/Kunleiky/Data-Anonymization-in-Python)
+  - <b> Python-SQlite Connection </b>: [Python-sqlite Connection](https://github.com/Kunleiky/Python_sqlite-connection)
   - <b> Data Visualization in R </b>: [Data Meets Art: A Waffle Visualization](https://github.com/Kunleiky/Data-Meet-Art_A-Waffle-Visualization)
   - <b> Exploratory Data Analysis </b>: [EDA - House Prices Dataset](https://github.com/Kunleiky/EDA-House-Prices-Dataset)
   - <b> SQL in PostgreSQL</b>: [Top Secret Database](https://github.com/Kunleiky/TOP-SECRET-DATABASE)
