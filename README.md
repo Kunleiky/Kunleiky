@@ -62,6 +62,8 @@ Here are the data science and data analytics tools I use efficiently
 
   -  <b> PL-SEM </b>: [PL-SEM: Indeed a Silver Bullet?](https://www.linkedin.com/pulse/pl-sem-method-analysis-indeed-silver-bullet-ibikunle-gabriel-tjs0f)
 
+-  <b> Power BI </b>: The Date Table Dilemma: Adding Time] (https://www.linkedin.com/posts/ibikunle-gabriel_powerbi-dax-powerbi-activity-7346296859960709123-bbnp?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACBudHQBqOToWG608ND9KFur-wPFfODNFRE&utm_campaign=copy_link)
+
 
  ##  🌐 **Connect with Me**
  <a href="https://www.linkedin.com/in/ibikunle-gabriel"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
