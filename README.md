@@ -32,6 +32,7 @@ Here are the data science and data analytics tools I use efficiently
     <img src="https://img.shields.io/badge/-SPSS-003399?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-EViews-555555?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-003B57?&style=for-the-badge&logo=Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" />
 </div>
 
@@ -80,5 +81,5 @@ Here are the data science and data analytics tools I use efficiently
 - 🌱 I’m currently reading business related books
 - 💬 Ask me about Machine Learning and Power BI
 - 📫 How to reach me: [ibikunlesgabriel@gmail.com](mailto:ibikunlesgabriel@gmail.com)
-- ⚡ Fun fact about me: I love to sightsee in my spare time. I also love reading thriller novels 
+- ⚡ Fun fact about me: I love to sightsee in my spare time. I also love reading Sci-fi books, thriller novels and  technolgy books.
 
